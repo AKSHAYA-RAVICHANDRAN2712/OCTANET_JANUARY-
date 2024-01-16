@@ -10,3 +10,8 @@ Taks 1
 
  ![image](https://github.com/AKSHAYA-RAVICHANDRAN2712/OCTANET_JANUARY-/assets/129597270/b1eef450-070e-4a3a-8927-ac4532f0cc68)
 
+
+task 2 *to-do-list* 
+
+![image](https://github.com/AKSHAYA-RAVICHANDRAN2712/OCTANET_JANUARY-/assets/129597270/bdedeac7-25a0-412a-96e1-8ce8b832555f)
+
